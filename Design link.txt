@@ -1,0 +1,15 @@
+Project Objective
+https://www.figma.com/file/slXfJQSyKyU9xILVGy2Xoc/Untitled?node-id=4%3A2&t=GCsPbIm1RUAasU4m-1
+Make your first HTML project, add the necessary head tags - give a suitable title, favicon, desc and link the stylesheet.
+Divide the body tag into respective header, main and footer tags.
+In the body make a signup form as shown in the given figma file: Signup Form. Make sure to include all fields (email, passwords, confirm passwords, date of birth, radio buttons and checkbox).
+Add a button of the type submit and also wrap all of these inputs in a form.
+Make sure all the input tags are required.
+To get familiar with figma, you can refer to the video: https://vimeo.com/770721192/308c5c22c6
+
+Evaluation Criteria
+Title,favicon, desc and link should be present in head. (25 marks)
+Body tag should be well strcutured. (15 marks)
+Input types are correct and are of the type "required" in the form. (15 marks)
+Button type should be submit. (25 marks)
+UI should be same as given in figma file. (20 marks)
